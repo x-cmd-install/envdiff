@@ -1,6 +1,24 @@
----
-owner-repo: GBerghoff/envdiff
-desc:   cli tool to snapshot and diff environments - helping find the differences that matter
----
-
 # envdiff
+
+cli tool to snapshot and diff environments - helping find the differences that matter
+
+- **Upstream**: <https://github.com/GBerghoff/envdiff>
+- **Homepage**: <>
+- **Latest release**: `v0.2.0` (2026-04-13)
+- **Last commit**: 2026-08-02
+- **License**: MIT
+- **Stars**: 25 · **Forks**: 0 · **Open issues**: 4 · **Contributors**: 1
+
+## Installation
+
+```sh
+x install envdiff
+```
+
+See <https://x-cmd.com/install/envdiff> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T10:46:51Z._
