@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: envdiff
+  binname: envdiff
+  visiblename: envdiff
+  version: 0.2.0
+  origversion: 0.2.0-1
+  status: unique
+  summary: A sleek CLI tool to compare and sync .env files with templates
+  maintainers:
+    - nekef@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: envdiff-bin
+  binname: envdiff-bin
+  visiblename: envdiff-bin
+  version: 0.2.0
+  origversion: 0.2.0-1
+  status: unique
+  summary: CLI tool to snapshot and diff environments - helping find the differences that matter
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
