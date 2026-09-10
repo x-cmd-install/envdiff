@@ -12,6 +12,17 @@ cli tool to snapshot and diff environments - helping find the differences that m
 x install envdiff
 ```
 
+## Code insight
+
+Total: **3,649** lines of code across **42** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 3,225 | 195 | 548 | 34 |
+| Json | 379 | 0 | 0 | 3 |
+| Sh | 45 | 10 | 13 | 1 |
+| Markdown | 0 | 470 | 225 | 4 |
+
 ## Source
 
 - **Upstream**: <https://github.com/GBerghoff/envdiff>
@@ -22,6 +33,25 @@ x install envdiff
 - **Latest**: `v0.2.0` (2026-04-13)
 - **Last commit**: 2026-08-02
 - **Assets in release**: 15
+
+## Popularity
+
+- **Stars**: 25 · **Forks**: 0 · **Open issues**: 4 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 5 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 54
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-06-12 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-14 | 1 | 4 | 0 | 0 | 0 | 6 |
+| 360d | 2025-09-15 | 5 | 20 | 0 | 4 | 0 | 34 |
+| last720d | 2024-09-20 | 5 | 20 | 0 | 4 | 0 | 54 |
 
 ## Release assets
 
@@ -43,33 +73,6 @@ x install envdiff
 | [envdiff_0.2.0_windows_arm64.sbom.json](https://github.com/GBerghoff/envdiff/releases/download/v0.2.0/envdiff_0.2.0_windows_arm64.sbom.json) | 32.2 KiB | `native/win/arm64` |
 | [envdiff_0.2.0_windows_arm64.zip](https://github.com/GBerghoff/envdiff/releases/download/v0.2.0/envdiff_0.2.0_windows_arm64.zip) | 1.4 MiB | `native/win/arm64` |
 
-## Popularity
-
-- **Stars**: 25 · **Forks**: 0 · **Open issues**: 4 · **Contributors**: 1
-
-## Totals (cumulative)
-
-- **Releases**: 5 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 54
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-15 | 5 | 20 | 0 | 4 | 0 | 34 |
-
-## Code size
-
-Total: **3,649** lines of code across **42** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 3,225 | 195 | 548 | 34 |
-| Json | 379 | 0 | 0 | 3 |
-| Sh | 45 | 10 | 13 | 1 |
-| Markdown | 0 | 470 | 225 | 4 |
-
 ## Improve this data
 
 Install metadata for envdiff lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `envdiff` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -79,4 +82,4 @@ Install metadata for envdiff lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:27:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:48:23Z._
