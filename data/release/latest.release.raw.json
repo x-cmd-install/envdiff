@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1212,
       "digest": "sha256:8d4fb9388915f4d98c5ff388e09c54d7b22383f152318bd7138c0596de834815",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-04-13T01:29:40Z",
       "updated_at": "2026-04-13T01:29:40Z",
       "browser_download_url": "https://github.com/GBerghoff/envdiff/releases/download/v0.2.0/checksums.txt"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1543061,
       "digest": "sha256:2a6b8b74271dc52245f6d1d6a78071946218d5fd8fc72341457aa2bd1f6f71ec",
-      "download_count": 37,
+      "download_count": 42,
       "created_at": "2026-04-13T01:29:38Z",
       "updated_at": "2026-04-13T01:29:38Z",
       "browser_download_url": "https://github.com/GBerghoff/envdiff/releases/download/v0.2.0/envdiff_0.2.0_linux_amd64.tar.gz"
