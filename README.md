@@ -46,12 +46,12 @@ Total: **3,687** lines of code across **42** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-10 | 1 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-11 | 1 | 5 | 0 | 0 | 0 | 5 |
-| last180d | 2026-04-12 | 2 | 7 | 0 | 0 | 0 | 6 |
-| 360d | 2025-10-14 | 6 | 24 | 0 | 4 | 0 | 38 |
-| last720d | 2024-10-19 | 6 | 24 | 0 | 4 | 0 | 62 |
+| 30d | 2026-09-10 | 1 | 4 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 1 | 4 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-12 | 1 | 5 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-13 | 2 | 6 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-15 | 6 | 24 | 0 | 4 | 0 | 0 |
+| last720d | 2024-10-20 | 6 | 24 | 0 | 4 | 0 | 62 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for envdiff lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:23:29Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:52:40Z._
