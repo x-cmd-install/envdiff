@@ -16,9 +16,20 @@
   visiblename: envdiff-bin
   version: 0.2.1
   origversion: 0.2.1-1
-  status: unique
+  status: newest
   summary: CLI tool to snapshot and diff environments - helping find the differences that matter
   maintainers:
     - dominiquini@aur
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: envdiff
+  visiblename: envdiff
+  version: 0.2.1
+  origversion: null
+  status: newest
+  summary: Cli tool to snapshot and diff environments - helping find the differences that matter
+  maintainers:
+    - kristoffer.pbs@gmail.com
   licenses:
     - MIT
