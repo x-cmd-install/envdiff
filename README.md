@@ -46,12 +46,12 @@ Total: **3,687** lines of code across **42** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 1 | 4 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 1 | 4 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 1 | 5 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 6 | 24 | 0 | 4 | 0 | 0 |
-| last720d | 2024-12-06 | 6 | 24 | 0 | 4 | 0 | 62 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 1 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-29 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last180d | 2026-05-31 | 1 | 5 | 0 | 0 | 0 | 5 |
+| 360d | 2025-12-02 | 6 | 24 | 0 | 4 | 0 | 38 |
+| last720d | 2024-12-07 | 6 | 24 | 0 | 4 | 0 | 62 |
 
 ## Release assets
 
@@ -73,14 +73,6 @@ Total: **3,687** lines of code across **42** files in the top 5 languages.
 | [envdiff_0.2.1_windows_arm64.sbom.json](https://github.com/GBerghoff/envdiff/releases/download/v0.2.1/envdiff_0.2.1_windows_arm64.sbom.json) | 32.2 KiB | `native/win/arm64` |
 | [envdiff_0.2.1_windows_arm64.zip](https://github.com/GBerghoff/envdiff/releases/download/v0.2.1/envdiff_0.2.1_windows_arm64.zip) | 1.4 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/envdiff). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.2.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for envdiff lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `envdiff` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +82,4 @@ Install metadata for envdiff lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:31:31Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:45:30Z._
